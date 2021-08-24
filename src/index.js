@@ -2,6 +2,8 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import reportWebVitals from './reportWebVitals';
 
+import config from './config.json';
+
 import Index from './pages/Index';
 
 import Header from './components/Header'
